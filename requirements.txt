@@ -1,4 +1,2 @@
 pytesseract
 pillow
-urllib
-glob
